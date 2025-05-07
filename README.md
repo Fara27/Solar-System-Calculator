@@ -1,4 +1,4 @@
-# Solar-System-Calculator
+# Solar-System-Calculator-Pro-v0.0.1
 The Solar System Calculator plugin, was created to enable solar system engineers and to enthusiasts to easily calculated the Watts/Hour, Total Watts Hour, Inverter size, Solar Panel size, Charge Controller, Battery size for a group or single selected electrical appliance:
 
 Looking at the plugin structure, I've implemented:
